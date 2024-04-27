@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7133220-13db-4bde-b372-7a6eac83c6fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LEARNING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dbproject/core/HeapFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dbproject/core/UserRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/dbproject/core/HeapFileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e7133220-13db-4bde-b372-7a6eac83c6fb" name="Changes" comment="added record structure class and heap file class which acts on each record and tested with junit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/dbproject/core/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dbproject/core/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,8 +107,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714163604135</updated>
-      <workItem from="1714163605205" duration="16697000" />
+      <workItem from="1714163605205" duration="16996000" />
     </task>
+    <task id="LOCAL-00001" summary="added record structure class and heap file class which acts on each record and tested with junit">
+      <option name="closed" value="true" />
+      <created>1714200143922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714200143922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,5 +133,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added record structure class and heap file class which acts on each record and tested with junit" />
+    <option name="LAST_COMMIT_MESSAGE" value="added record structure class and heap file class which acts on each record and tested with junit" />
   </component>
 </project>
