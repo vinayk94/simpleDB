@@ -108,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714163604135</updated>
       <workItem from="1714163605205" duration="17330000" />
-      <workItem from="1714404953579" duration="887000" />
+      <workItem from="1714404953579" duration="1287000" />
     </task>
     <task id="LOCAL-00001" summary="added record structure class and heap file class which acts on each record and tested with junit">
       <option name="closed" value="true" />
