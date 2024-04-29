@@ -1,5 +1,5 @@
 I wanted to understand database internals and thought of doing it by building a simple functional database.
-This project follows a typical structure of a sample DB project in any Database course.
+This project follows typical structure of a sample DB project in any Database course.
 
 ## Heap File Storage System - Implement a basic file storage system that allows you to read and write database records.
 - [x] Define a file format for storing records, such as a binary format or a CSV-like format.
